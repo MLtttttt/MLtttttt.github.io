@@ -9,10 +9,7 @@ const NOTES = [
   { slug: "菜菜必备", file: "菜菜必备.md", title: "菜菜必备", tag: "常用" },
   { slug: "神秘笔记", file: "神秘笔记.md", title: "神秘笔记", tag: "杂项" },
   { slug: "典题", file: "菜菜典题（非算法）.md", title: "菜菜典题", tag: "题单" },
-  { slug: "博弈论", file: "菜菜也玩博弈论.md", title: "菜菜也玩博弈论", tag: "专题" },
-  { slug: "大忙人", file: "我是大忙人.md", title: "我是大忙人", tag: "记录" },
-  { slug: "补充", file: "补充.md", title: "补充", tag: "追加" },
-  { slug: "打印", file: "打印.md", title: "打印", tag: "空白" }
+  { slug: "博弈论", file: "菜菜也玩博弈论.md", title: "菜菜也玩博弈论", tag: "专题" }
 ];
 
 const MASCOTS = [
